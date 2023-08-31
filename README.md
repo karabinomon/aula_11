@@ -22,3 +22,7 @@ Nesse incremento usamos a ferramenta de "funções".
 As ferramenta de "funções" ou "Meus blocos" no Scratch tem o objetivo de diminuir o código duplicado, além de melhorar a legibilidade, para isso o programador deve definir uma única função a sua "função" e um nome bem descritivo para ela.
 
 **Observação**: Foi removido o tratamento que verifica se o usuário digitou zero ou não, aqui qualquer dado "0" será tratado como uma letra no lugar de número.
+
+## [Projeto soma_final](https://scratch.mit.edu/projects/887746751)
+
+Foi aplicado o tratamento que verifica se o usuário digitou zero ou não, aqui qualquer dado "0" será tratado como número.
